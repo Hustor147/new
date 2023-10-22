@@ -1,0 +1,18 @@
+.inp {
+  margin: 0 auto;
+  width: 300px;
+}
+.infoOkno {
+  margin: 20px auto;
+  width: fit-content;
+  height: 700px;
+  /* border: 2px solid red; */
+  background-repeat: no-repeat;
+  background-position: center;
+  object-fit: cover;
+  background-size: auto;
+  background-image: url("/Users/ladislavklejna/Desktop/v0/new/public/images/back.png");
+}
+.odd {
+  margin: 0 35px;
+}
